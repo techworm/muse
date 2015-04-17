@@ -4,6 +4,7 @@
 
 body {
  	font-weight: 100;
+ 	font-family: "Segoe UI"
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -31,6 +32,11 @@ h1, h2, h3, h4, h5, h6 {
 	outline: none;
 	background: white;
 	color: #9B9B9B;
+	&:hover {
+		border: 1px solid #50A7C7;
+
+		
+	}
 }
 
 header {
@@ -51,7 +57,7 @@ header {
 	nav {
 		float: right;
 		a {
-			margin-left: 0.5rem;
+			margin-left: 1rem;
 			line-height: 2;
 			color: #9B9B9B;
 			text-decoration: none;
@@ -66,3 +72,4 @@ header {
 @import 'posts.css.scss';
 @import "font-awesome-sprockets";
 @import "font-awesome";
+@import "forms.css"

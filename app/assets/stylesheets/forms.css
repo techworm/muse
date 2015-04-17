@@ -1,0 +1,118 @@
+#login_form {
+	width: 40%;
+	margin: 2em auto;
+	background-color: #F8F9FA;
+	border-radius: 0.3em;
+	font-size: 1.1em;
+}
+
+#login_form h2 {
+	text-align: center;
+	padding-top: 0.9em;
+	padding-bottom: 0.9em;
+	border-bottom: 1px solid #E4E4E4;
+}
+
+#login_form a {
+	margin-left: 1.5em;
+	text-decoration: none;
+	color: #9B9B9B;
+	font-size: 0.9em;
+	display: block;
+	margin-bottom: -1em;
+}
+
+#login_form a:hover{
+	text-decoration: underline;
+	color: #00AADD;
+}
+
+#new_user {
+	padding-left: 5%;
+}
+
+.form-group {
+	margin-bottom: 1em;
+}
+
+
+.form-control {
+	width: 90%;
+	height: 2.5em;
+	margin-top: 0.5em;
+	border: 2px solid #E4E4E4;
+	border-radius: 0.3em;
+	padding-left: 1em;
+	font-size: 0.9em;
+}
+
+.btn-default {
+	height: 2.5em;
+	font-size: 1em;
+	margin-bottom: 0.8em;
+	background-color: #00AADD;
+	color: #FFFFFF;
+	border: 1px solid #E4E4E4;
+	border-radius: 0.3em; 
+}
+
+abbr[title] {
+	border-bottom: 0px;
+}
+
+
+/* signup form css */
+
+#signup_form {
+	width: 40%;
+	margin: 1em auto;
+	background-color: #F8F9FA;
+	border-radius: 0.3em;
+	font-size: 1.1em;
+}
+
+#signup_form h2 {
+	text-align: center;
+	padding-top: 0.7em;
+	padding-bottom: 0.7em;
+	border-bottom: 1px solid #E4E4E4;
+}
+
+#signup_form a {
+	margin-left: 1.5em;
+	text-decoration: none;
+	color: #9B9B9B;
+	font-size: 0.9em;
+	display: block;
+	margin-bottom: -1em;
+}
+
+#signup_form a:hover{
+	text-decoration: underline;
+	color: #00AADD;
+}
+
+.help-block {
+	font-size: .7em;
+	margin: 0;
+}
+
+#post_image {
+	margin-top: 0.5em;
+
+}
+
+.notice {
+	background-color: #99FF66;
+	margin-top: 0;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+abbr {
+	display: none;
+}
+
+label {
+	display: block;
+}
