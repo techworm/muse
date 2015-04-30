@@ -107,6 +107,14 @@ abbr[title] {
 	margin-top: 0;
 	color: #FFFFFF;
 	text-align: center;
+	margin-bottom: 0px;
+}
+
+.alert {
+	background-color: #FF5555;
+	margin-top: 0;
+	color: #FFFFFF;
+	text-align: center;
 }
 
 abbr {
@@ -115,4 +123,9 @@ abbr {
 
 label {
 	display: block;
+}
+
+.help-block {
+	color: #FF5555;
+	margin-left: 1em;
 }
